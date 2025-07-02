@@ -1,4 +1,4 @@
-# My Learning Jenkins for DevSecOps---- 
+# Jenkins for DevSecOps---- 
 
 ## Understanding the Usecase
 
